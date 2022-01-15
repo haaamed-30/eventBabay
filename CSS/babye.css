@@ -32,11 +32,11 @@ body {
 }
 .contaner_fixed {
     position: fixed;
-    top: 2%;
+    top: 10%;
     color: #00b4ef;
 }
 .contaner h1 {
-    font-size: 25px;
+    font-size: 20px;
     font-family: cursive;
     padding-left: 10px;
     color: #fff;
