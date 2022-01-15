@@ -25,8 +25,8 @@ body {
 .contaner {
     border: 1.5px solid #fff;
     border-radius: 5px;
-    width: 300px;
-    max-width: 300px;
+    width: 320px;
+    max-width: 320px;
     padding: 5px;
     box-shadow: 0px 0px 5px 2px #fff;
 }
@@ -36,7 +36,7 @@ body {
     color: #00b4ef;
 }
 .contaner h1 {
-    font-size: 20px;
+    font-size: 18px;
     font-family: cursive;
     padding-left: 10px;
     color: #fff;
@@ -55,8 +55,8 @@ body {
 .writ_box {
     border: 1.5px solid #fff;
     border-radius: 5px;
-    width: 300px;
-    max-width: 300px;
+    width: 320px;
+    max-width: 320px;
     padding: 15px;
     box-shadow: 0px 0px 5px 2px #fff;
     position: absolute;
@@ -71,8 +71,8 @@ body {
 .writ_box-two {
     border: 1.5px solid #fff;
     border-radius: 5px;
-    width: 300px;
-    max-width: 300px;
+    width: 320px;
+    max-width: 320px;
     padding: 15px;
     box-shadow: inset 0px 0px 20px 3px #fff;
     position: absolute;
